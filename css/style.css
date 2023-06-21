@@ -42,7 +42,7 @@ nav a {
 }
 
 .main {
-    background: rgba(0, 0, 0, 0.58) url('/images/bg.jpg');
+    background: rgba(0, 0, 0, 0.58) url('images/bg.jpg');
     background-blend-mode: multiply;
     background-repeat: no-repeat;
     background-size: cover;
